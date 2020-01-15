@@ -1,0 +1,104 @@
+
+
+.vetrina{
+    width: 912px;
+    height:610px;
+    background-color: grey;
+    border: 5px solid grey;
+    border-radius: 20px;
+    position:relative;
+}
+.prodotto{
+    width: 300px;
+    height: 300px;
+    margin-right:2px;
+    background-image: url(https://asset-media.juice.it/media/catalog/product/cache/1/image/445x/602f0fa2c1f0d1ba5e241f914e856ff9/i/m/image_24910.jpg);
+    background-size: 300px 300px;
+    display: inline-block;
+    border-radius: 20px;
+
+}
+.prodotto-2{
+    width: 300px;
+    height: 300px;
+    margin-right:2px;
+    background-image:url(https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MRJA2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5%2C0.5&.v=1570059343361);
+    background-size: 300px 300px;
+    display: inline-block;
+    border-radius: 20px;
+
+}
+.prodotto-3{
+    width: 300px;
+    height: 300px;
+    background-image:url(https://images-na.ssl-images-amazon.com/images/I/518tGPL3OxL._SX425_.jpg);
+    background-size: 300px 300px;
+    display: inline-block;
+    border-radius: 20px;
+}
+.prodotto-4{
+    width: 300px;
+    height: 300px;
+    background-image: url(https://www.puro.it/media/catalog/product/cache/1/thumbnail/960x/17f82f742ffe127f42dca9de82fb58b1/c/o/cover-03-nude-iphone-11-pro_01_1_1.jpg);
+    background-size: 300px 300px;
+    position: relative;
+    margin-top: 5px;
+    margin-right: 2px;
+    display: inline-block;
+    border-radius: 20px;
+}
+.prodotto-5{
+    width: 300px;
+    height: 300px;
+    background-image:url(https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MRJC2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1570059351554);
+    background-size: 300px 300px;
+    margin-right:2px;
+    display: inline-block;
+    border-radius: 20px;
+}
+.prodotto-6{
+    width: 300px;
+    height: 300px;
+    background-image: url(https://asset-media.juice.it/media/catalog/product/cache/1/image/445x/040ec09b1e35df139433887a97daa66f/i/m/image_21768.jpg);
+    background-size: cover;
+    display: inline-block;
+    border-radius: 20px;
+}
+.sconto{
+    width: 70px;
+    height: 30px;
+    background-color: green;
+    position: relative;
+    left: 230px;
+    border-top-right-radius: 20px;
+    border-top: 0;
+    display: inline-block;
+}
+#supersconto{
+    width: 70px;
+    height: 30px;
+    background-color: red;
+    position: relative;
+    left: 230px;
+    border-top-right-radius: 20px;
+    border-top: 0;
+    display: inline-block;
+
+}
+.like{
+    position: relative;
+    color: red;
+    font-size: 60%;
+    right: 40%;
+    bottom: 8%;
+    cursor:pointer;
+}
+
+
+
+
+p{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    margin: 0;
